@@ -1,5 +1,5 @@
-# Data-Structures-Problems
-Implementation of commonly used  datastructures and their application in problem solving
+# Digital-Clock
+Implementation of digital clock using multithreading
 
 My Profile Links
 
